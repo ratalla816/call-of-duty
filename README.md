@@ -34,13 +34,14 @@
   TBD
 
   ## Screenshot
-  ![Screenshot](TBD)
+  ![Screenshot](./assets/images/cod.gif)
 
   ## Features
   TBD
   
   # Acknowledgements
-  TBD
+  
+  * The Easiest Javascript Game Ever <https://www.youtube.com/watch?v=bG2BmmYr9NQ&list=WL&index=72>
     
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-important)
